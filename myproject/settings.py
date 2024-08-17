@@ -17,7 +17,8 @@ DEBUG = False
 
 ALLOWED_HOSTS = ['.vercel.app',
                  'epson-motivation.vercel.app',
-                 '127.0.0.1']
+                 '127.0.0.1', 'epson.onrender.com', 'onrender.com']
+
 
 
 
